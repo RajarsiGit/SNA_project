@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Understanding the concept of Diffusion on COVID-19 virus on India
 	Social Network Analysis project on Covid-19 cases over the entire Indian subcontinent
-
-Topic: Understanding the concept of Diffusion on COVID-19 virus on India
 
 This project proposes a technique to visualize a spread of Covid-19 corona virus in the Indian subcontinent and analyse the data collected from a reputed data source. It also aims to further propose new ideas in studying future pandemics and spread of viruses and biological diseases.
 New data is created everyday on Covid-19 but no proper method has been created to visualize the spread and understand this pandemic. This project proposes to provide an insight into the spread of the above-mentioned virus right from the beginning of the year, i.e. January, 2020 up to the present day in April, 2020 via live data collected from reliable source.
@@ -13,4 +10,3 @@ The data has been collected from Kaggle: https://www.kaggle.com/imdevskp/covid19
 Languages and softwares used:
 • Python
 • SocialNetV
->>>>>>> 0d5b379e2fc5b5eb0e479b1d3ee4469e61138065
