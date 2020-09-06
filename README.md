@@ -1,27 +1,4 @@
-# SNA_project
-Social Network Analysis project on Covid-19 cases all over the world
-
-
-![](RackMultipart20200906-4-19z0r5y_html_a5694496364b6fcd.png)
-
-# **PONDICHERRY UNIVERISTY**
-
-# **Department of
- Computer Science**
-
-## M.Sc. 1
-
-## st
-
-## Year
-
 # **Understanding the concept of Diffusion on COVID-19 virus on India**
-
-## **SUBMITTED BY:**
-
-## **Rajarsi Saha**
-
-## 19370037
 
 ## **ABSTRACT**
 
